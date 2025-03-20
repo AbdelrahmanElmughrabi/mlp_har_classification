@@ -27,4 +27,7 @@ The UCI HAR dataset is used for this project. It contains:
 - Activity labels (1-6).
 - Participant IDs for cross-validation.
 
+## Disclaimer
+This project is for educational purposes only and is not intended for production use.
+
 
